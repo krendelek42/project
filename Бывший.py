@@ -1,4 +1,4 @@
-print('Determination of the type of demand elasticity according to the arc elasticity formula: ')
+print('Determination of the type of demand elasticity according to the arc elasticity formula:')
 Pa = int(input('Enter the starting price: '))
 Qa = int(input('Enter initial demand: '))
 Pb = int(input('Enter the final price: '))
